@@ -1,0 +1,7 @@
+startGame() {
+    
+}
+
+nextQuestion()
+
+quitGame()
